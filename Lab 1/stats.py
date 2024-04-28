@@ -1,16 +1,22 @@
-def mean(numbers):
-    return sum(numbers) / len(numbers)
+def mean(nums):
+    total = sum(nums)
+    mean_value = total / len(nums)
+    return mean_value
 
-def median(numbers):
-    numbers.sort()
-    length = len(numbers)
-    if length % 2 == 0:
-        return (numbers[length // 2 - 1] + numbers[length // 2]) / 2
+def median(nums):
+    sorted_nums = sorted(nums)
+    n = len(sorted_nums)
+    if n % 2 == 0:
+        mid = n // 2
+        median_value = (sorted_nums[mid - 1] + sorted_nums[mid]) / 2
     else:
-        return numbers[length // 2]
+        median_value = sorted_nums[n // 2]
+    return median_value
 
-def mode(numbers):
-    from collections import Counter
-    count = Counter(numbers)
-    max_count = max(list(count.values()))
-    return [num for num, freq in count.items() if freq == max_count]
+def mode(nums):
+    counts = {}
+    for num in nums:
+        counts[num] = counts.get(num, 0) + 1
+    max_count = max(counts.values())
+    modes = [num for num, count in counts.items() if count == max_count]
+    return modes[0] if len(modes) == 1 else modes
