@@ -1,0 +1,11 @@
+brown
+black
+carrot
+read
+orange
+yellow
+green
+blue
+white
+gray
+These are some of the color codes in resistor
