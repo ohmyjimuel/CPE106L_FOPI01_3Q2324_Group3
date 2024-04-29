@@ -1,0 +1,8 @@
+Boy
+Girl
+Cat
+Dog
+Book
+Table
+Chair
+Ball

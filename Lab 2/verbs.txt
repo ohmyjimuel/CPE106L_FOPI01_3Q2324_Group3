@@ -1,0 +1,7 @@
+Hit
+Run
+Jump
+Eat
+Sleep
+Talk
+Dance
