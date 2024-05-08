@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5df"
+  },
+  "AlbumId": 1,
+  "Title": "Get Rich or Die Tryin'",
+  "ArtistId": 1
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5e0"
+  },
+  "AlbumId": 2,
+  "Title": "F.A.M.E.",
+  "ArtistId": 2
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5e1"
+  },
+  "AlbumId": 3,
+  "Title": "The Marshall Mathers LP",
+  "ArtistId": 3
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5e2"
+  },
+  "AlbumId": 4,
+  "Title": "The Predator",
+  "ArtistId": 4
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5e3"
+  },
+  "AlbumId": 5,
+  "Title": "2014 Forest Hills Drive",
+  "ArtistId": 5
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5e4"
+  },
+  "AlbumId": 6,
+  "Title": "Watch the Throne",
+  "ArtistId": 6
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5e5"
+  },
+  "AlbumId": 7,
+  "Title": "My Beautiful Dark Twisted Fantasy",
+  "ArtistId": 7
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5e6"
+  },
+  "AlbumId": 8,
+  "Title": "DAMN.",
+  "ArtistId": 8
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5e7"
+  },
+  "AlbumId": 9,
+  "Title": "The Score",
+  "ArtistId": 9
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5e8"
+  },
+  "AlbumId": 10,
+  "Title": "Tha Carter III",
+  "ArtistId": 10
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5e9"
+  },
+  "AlbumId": 11,
+  "Title": "WE DON’T TRUST YOU",
+  "ArtistId": 11
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5ea"
+  },
+  "AlbumId": 12,
+  "Title": "It Was Written",
+  "ArtistId": 12
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5eb"
+  },
+  "AlbumId": 13,
+  "Title": "2001",
+  "ArtistId": 13
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5ec"
+  },
+  "AlbumId": 14,
+  "Title": "Ready to Die",
+  "ArtistId": 14
+},
+{
+  "_id": {
+    "$oid": "6637dcf3c2200e671ee5a5ed"
+  },
+  "AlbumId": 15,
+  "Title": "All Eyez on Me",
+  "ArtistId": 15
+}]

@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4cb"
+  },
+  "ArtistId": 1,
+  "Name": "50 Cent"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4cc"
+  },
+  "ArtistId": 2,
+  "Name": "Chris Brown"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4cd"
+  },
+  "ArtistId": 3,
+  "Name": "Eminem"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4ce"
+  },
+  "ArtistId": 4,
+  "Name": "Ice Cube"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4cf"
+  },
+  "ArtistId": 5,
+  "Name": "J. Cole"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4d0"
+  },
+  "ArtistId": 6,
+  "Name": "Jay-Z"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4d1"
+  },
+  "ArtistId": 7,
+  "Name": "Kanye West"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4d2"
+  },
+  "ArtistId": 8,
+  "Name": "Kendrick Lamar"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4d3"
+  },
+  "ArtistId": 9,
+  "Name": "Lauryn Hill"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4d4"
+  },
+  "ArtistId": 10,
+  "Name": "Lil Wayne"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4d5"
+  },
+  "ArtistId": 11,
+  "Name": "Metro Boomin"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4d6"
+  },
+  "ArtistId": 12,
+  "Name": "Nas"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4d7"
+  },
+  "ArtistId": 13,
+  "Name": "Snoop Dogg"
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4d8"
+  },
+  "ArtistId": 14,
+  "Name": "The Notorious B.I.G."
+},
+{
+  "_id": {
+    "$oid": "6637dceac2200e671ee5a4d9"
+  },
+  "ArtistId": 15,
+  "Name": "Tupac Shakur"
+}]
